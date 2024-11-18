@@ -9,8 +9,8 @@ import { Heebo} from "next/font/google";
 const heebo = Heebo({ subsets: ["latin"], weight: ["400", "700"] });
 
 export const metadata: Metadata = {
-  title: "Assignment-3 from Figma Design",
-  description: "NextJs project, details are in page/layout/navbar/footer.tsx",
+  title: "Assignment-4 from Figma Design",
+  description: "NextJs project, E Commerce Website Design",
 };
 
 export default function RootLayout({
